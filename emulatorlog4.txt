@@ -1,0 +1,41 @@
+
+transactionnumber=2emulator	4 producer= 1	consumer= 0	sum=250
+transactionnumber=9emulator	4 producer= 1	consumer= 5	sum=172
+transactionnumber=11emulator	4 producer= 3	consumer= 4	sum=75
+transactionnumber=18emulator	4 producer= 0	consumer= 0	sum=775
+transactionnumber=20emulator	4 producer= 1	consumer= 2	sum=90
+transactionnumber=26emulator	4 producer= 0	consumer= 3	sum=718
+transactionnumber=29emulator	4 producer= 5	consumer= 3	sum=124
+transactionnumber=39emulator	4 producer= 5	consumer= 0	sum=91
+transactionnumber=40emulator	4 producer= 5	consumer= 4	sum=32
+transactionnumber=43emulator	4 producer= 3	consumer= 6	sum=85
+transactionnumber=45emulator	4 producer= 5	consumer= 5	sum=50
+transactionnumber=47emulator	4 producer= 1	consumer= 7	sum=6
+transactionnumber=51emulator	4 producer= 6	consumer= 5	sum=44
+transactionnumber=52emulator	4 producer= 6	consumer= 5	sum=16
+transactionnumber=54emulator	4 producer= 2	consumer= 5	sum=9
+transactionnumber=55emulator	4 producer= 5	consumer= 6	sum=14
+transactionnumber=58emulator	4 producer= 4	consumer= 5	sum=12
+transactionnumber=60emulator	4 producer= 0	consumer= 2	sum=0
+transactionnumber=111emulator	4 producer= 0	consumer= 7	sum=12
+transactionnumber=112emulator	4 producer= 6	consumer= 2	sum=1
+transactionnumber=113emulator	4 producer= 6	consumer= 0	sum=0
+transactionnumber=114emulator	4 producer= 3	consumer= 6	sum=8
+transactionnumber=115emulator	4 producer= 4	consumer= 3	sum=23
+transactionnumber=117emulator	4 producer= 4	consumer= 1	sum=14
+transactionnumber=118emulator	4 producer= 5	consumer= 3	sum=7
+transactionnumber=119emulator	4 producer= 6	consumer= 0	sum=5
+transactionnumber=120emulator	4 producer= 7	consumer= 4	sum=1
+transactionnumber=123emulator	4 producer= 5	consumer= 1	sum=6
+transactionnumber=128emulator	4 producer= 4	consumer= 1	sum=3
+transactionnumber=130emulator	4 producer= 4	consumer= 5	sum=0
+transactionnumber=131emulator	4 producer= 5	consumer= 7	sum=1
+transactionnumber=134emulator	4 producer= 7	consumer= 0	sum=1
+transactionnumber=137emulator	4 producer= 1	consumer= 0	sum=0
+transactionnumber=139emulator	4 producer= 6	consumer= 1	sum=0
+transactionnumber=141emulator	4 producer= 5	consumer= 5	sum=0
+transactionnumber=142emulator	4 producer= 0	consumer= 6	sum=0
+transactionnumber=148emulator	4 producer= 1	consumer= 2	sum=0
+transactionnumber=150emulator	4 producer= 5	consumer= 2	sum=0
+transactionnumber=153emulator	4 producer= 1	consumer= 0	sum=2
+transactionnumber=154emulator	4 producer= 6	consumer= 3	sum=0
